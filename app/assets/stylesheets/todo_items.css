@@ -1,0 +1,15 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+table {
+  background-color: lightblue;
+  text-align: center;
+  color: white;
+}
+.description {
+  border-style: groove;
+  padding: 5px;
+  font-size: 20px;
+  background-color: red;
+}
